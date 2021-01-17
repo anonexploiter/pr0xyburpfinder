@@ -3,15 +3,15 @@ import sys
 
 def banner():
 	
-	print " .-----------------------------.           "
-	print " |  Hi Hackers                 |           "
-	print ("|  Tool   : proxy        |")
-	print " |  Author : black_devil_07    |           "         |           "
-	print " '-----------------------------'           "
-	print "                 ^      (\_/)    "
-	print "                 '_____ (-_-)    "
-	print "                        (<_>)    "
-	print " "
+	print (" .-----------------------------.")
+	print (" |  Hi Hackers                |")
+	print ("|  Tool   : proxy             |")
+	print ("|  Author : black_devil_07    |")
+	print (" '-----------------------------'")
+	print ("(\_/)")
+	print ("(-_-)")
+	print ("(<_>)")
+	print (" ")
 
 proxies = {"http": "http://127.0.0.1:7777", "https": "http://127.0.0.1:7777"}
 
