@@ -6,7 +6,7 @@ def banner():
 	print (" .-----------------------------.")
 	print (" |  Hi Hackers                |")
 	print ("|  Tool   : proxy             |")
-	print ("|  Author : black_devil_07    |")
+	print ("|  Author : Surendar          |")
 	print (" '-----------------------------'")
 	print ("(\_/)")
 	print ("(-_-)")
